@@ -5,6 +5,22 @@ __metadata:
   version: 4
   cacheKey: 8
 
+"@astriel-division/ts-config@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@astriel-division/ts-config@workspace:."
+  dependencies:
+    "@commitlint/cli": ^13.1.0
+    "@commitlint/config-conventional": ^13.1.0
+    "@types/node": ^16.7.8
+    cz-conventional-changelog: ^3.3.0
+    husky: ^7.0.2
+    rimraf: ^3.0.2
+    standard-version: ^9.3.1
+    tslib: ^2.3.1
+    typescript: ^4.4.2
+  languageName: unknown
+  linkType: soft
+
 "@babel/code-frame@npm:^7.0.0":
   version: 7.14.5
   resolution: "@babel/code-frame@npm:7.14.5"
@@ -2632,22 +2648,6 @@ resolve@^1.10.0:
   checksum: ca644908cace3d91b4c5b0fee0224640fed34a4503583e542db3f2dbec95246f2dc0f1bdfc5169e95f244f2613c0256ccc0c594ebe678fd9afdd9c5cf424562f
   languageName: node
   linkType: hard
-
-"ts-config@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "ts-config@workspace:."
-  dependencies:
-    "@commitlint/cli": ^13.1.0
-    "@commitlint/config-conventional": ^13.1.0
-    "@types/node": ^16.7.8
-    cz-conventional-changelog: ^3.3.0
-    husky: ^7.0.2
-    rimraf: ^3.0.2
-    standard-version: ^9.3.1
-    tslib: ^2.3.1
-    typescript: ^4.4.2
-  languageName: unknown
-  linkType: soft
 
 "tslib@npm:^1.9.0":
   version: 1.14.1

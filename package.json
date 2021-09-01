@@ -1,6 +1,6 @@
 {
-  "name": "ts-config",
-  "packageManager": "yarn@3.0.1",
+  "name": "@astriel-division/ts-config",
+  "version": "1.0.0",
   "scripts": {
     "postinstall": "husky install .github/husky",
     "commit": "git-cz"
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AstrielDivision/tsconfig.git"
+    "url": "https://github.com/AstrielDivision/ts.git"
   },
   "bugs": {
-    "url": "https://github.com/hidden-umbrella/template/issues"
+    "url": "https://github.com/AstrielDivision/ts/issues"
   },
   "files": [
-    "src/tsconfig.json"
+    "src/**"
   ],
   "keywords": [
     "tsconfig",
