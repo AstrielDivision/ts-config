@@ -7,7 +7,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/AstrielDivision/ts-config)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AstrielDivision/ts-config)
 
-</div
+</div>
 
 ## Installation
 
