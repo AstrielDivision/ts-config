@@ -9,15 +9,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@astriel-division/ts-config@workspace:."
   dependencies:
-    "@commitlint/cli": ^13.1.0
-    "@commitlint/config-conventional": ^13.1.0
-    "@types/node": ^16.7.8
-    cz-conventional-changelog: ^3.3.0
-    husky: ^7.0.2
-    rimraf: ^3.0.2
-    standard-version: ^9.3.1
-    tslib: ^2.3.1
-    typescript: ^4.4.2
+    "@commitlint/cli": 13.1.0
+    "@commitlint/config-conventional": 13.1.0
+    "@types/node": 16.7.8
+    cz-conventional-changelog: 3.3.0
+    husky: 7.0.2
+    rimraf: 3.0.2
+    standard-version: 9.3.1
+    tslib: 2.3.1
+    typescript: 4.4.2
   languageName: unknown
   linkType: soft
 
@@ -48,7 +48,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:^13.1.0":
+"@commitlint/cli@npm:13.1.0":
   version: 13.1.0
   resolution: "@commitlint/cli@npm:13.1.0"
   dependencies:
@@ -67,7 +67,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/config-conventional@npm:^13.1.0":
+"@commitlint/config-conventional@npm:13.1.0":
   version: 13.1.0
   resolution: "@commitlint/config-conventional@npm:13.1.0"
   dependencies:
@@ -234,7 +234,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^16.7.8":
+"@types/node@npm:16.7.8":
   version: 16.7.8
   resolution: "@types/node@npm:16.7.8"
   checksum: 060ea222ce8f3eb05bd86a7785ca5807503a50602dd805c5be997a5ae684fa6224c9ad8890bcc5551c05d14a8bcd735f94567691342d197f5f7f7f893ed0d46b
@@ -812,7 +812,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cz-conventional-changelog@npm:^3.3.0":
+"cz-conventional-changelog@npm:3.3.0":
   version: 3.3.0
   resolution: "cz-conventional-changelog@npm:3.3.0"
   dependencies:
@@ -1343,7 +1343,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"husky@npm:^7.0.2":
+"husky@npm:7.0.2":
   version: 7.0.2
   resolution: "husky@npm:7.0.2"
   bin:
@@ -2272,7 +2272,7 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"rimraf@npm:^3.0.2":
+"rimraf@npm:3.0.2":
   version: 3.0.2
   resolution: "rimraf@npm:3.0.2"
   dependencies:
@@ -2431,7 +2431,7 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"standard-version@npm:^9.3.1":
+"standard-version@npm:9.3.1":
   version: 9.3.1
   resolution: "standard-version@npm:9.3.1"
   dependencies:
@@ -2649,17 +2649,17 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
+"tslib@npm:2.3.1":
+  version: 2.3.1
+  resolution: "tslib@npm:2.3.1"
+  checksum: de17a98d4614481f7fcb5cd53ffc1aaf8654313be0291e1bfaee4b4bb31a20494b7d218ff2e15017883e8ea9626599b3b0e0229c18383ba9dce89da2adf15cb9
+  languageName: node
+  linkType: hard
+
 "tslib@npm:^1.9.0":
   version: 1.14.1
   resolution: "tslib@npm:1.14.1"
   checksum: dbe628ef87f66691d5d2959b3e41b9ca0045c3ee3c7c7b906cc1e328b39f199bb1ad9e671c39025bd56122ac57dfbf7385a94843b1cc07c60a4db74795829acd
-  languageName: node
-  linkType: hard
-
-"tslib@npm:^2.3.1":
-  version: 2.3.1
-  resolution: "tslib@npm:2.3.1"
-  checksum: de17a98d4614481f7fcb5cd53ffc1aaf8654313be0291e1bfaee4b4bb31a20494b7d218ff2e15017883e8ea9626599b3b0e0229c18383ba9dce89da2adf15cb9
   languageName: node
   linkType: hard
 
@@ -2698,7 +2698,7 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-typescript@^4.4.2:
+typescript@4.4.2:
   version: 4.4.2
   resolution: "typescript@npm:4.4.2"
   bin:
@@ -2708,7 +2708,7 @@ typescript@^4.4.2:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.4.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@4.4.2#~builtin<compat/typescript>":
   version: 4.4.2
   resolution: "typescript@patch:typescript@npm%3A4.4.2#~builtin<compat/typescript>::version=4.4.2&hash=d8b4e7"
   bin:
