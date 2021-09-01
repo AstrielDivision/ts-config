@@ -9,8 +9,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@astriel-division/ts-config@workspace:."
   dependencies:
-    "@commitlint/cli": ^13.1.0
-    "@commitlint/config-conventional": ^13.1.0
+    "@commitlint/cli": 13.1.0
+    "@commitlint/config-conventional": 13.1.0
     "@types/node": ^16.7.8
     cz-conventional-changelog: ^3.3.0
     husky: ^7.0.2
@@ -48,7 +48,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:^13.1.0":
+"@commitlint/cli@npm:13.1.0":
   version: 13.1.0
   resolution: "@commitlint/cli@npm:13.1.0"
   dependencies:
@@ -67,7 +67,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/config-conventional@npm:^13.1.0":
+"@commitlint/config-conventional@npm:13.1.0":
   version: 13.1.0
   resolution: "@commitlint/config-conventional@npm:13.1.0"
   dependencies:
