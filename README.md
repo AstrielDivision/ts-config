@@ -2,7 +2,7 @@
 
 # ts-config
 
-[![CD](https://github.com/hidden-umbrella/template/actions/workflows/CD.yml/badge.svg)](https://github.com/hidden-umbrella/eslint-config/actions/workflows/CD.yml)
+[![CD](https://github.com/AstrielDivision/ts-config/actions/workflows/CD.yml/badge.svg?branch=main)](https://github.com/AstrielDivision/ts-config/actions/workflows/CD.yml)
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/AstrielDivision/ts-config)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AstrielDivision/ts-config)
