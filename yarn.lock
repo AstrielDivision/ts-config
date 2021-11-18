@@ -9,7 +9,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@astriel-division/ts-config@workspace:."
   dependencies:
-    "@types/node": 16.7.8
+    "@types/node": 16.11.8
     cz-conventional-changelog: 3.3.0
     rimraf: 3.0.2
     standard-version: 9.3.1
@@ -102,10 +102,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.7.8":
-  version: 16.7.8
-  resolution: "@types/node@npm:16.7.8"
-  checksum: 060ea222ce8f3eb05bd86a7785ca5807503a50602dd805c5be997a5ae684fa6224c9ad8890bcc5551c05d14a8bcd735f94567691342d197f5f7f7f893ed0d46b
+"@types/node@npm:16.11.8":
+  version: 16.11.8
+  resolution: "@types/node@npm:16.11.8"
+  checksum: c60418498f0affd0fb69351fd04ec0d8c684d1892d6d548d95fc2288b157c4e2e3e0bd3b6da6802ba128cb34ea2144c08e8683469e08cf58c61d5fb6ab9db4b5
   languageName: node
   linkType: hard
 
