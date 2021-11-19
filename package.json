@@ -1,7 +1,7 @@
 {
   "name": "@astriel-division/ts-config",
-  "version": "1.0.6",
-  "main": "./src/tsconfig.json",
+  "version": "1.0.7",
+  "main": "tsconfig.json",
   "scripts": {
     "commit": "git-cz"
   },
@@ -23,7 +23,7 @@
     "url": "https://github.com/AstrielDivision/ts/issues"
   },
   "files": [
-    "src/**"
+    "tsconfig.json"
   ],
   "keywords": [
     "tsconfig",
